@@ -1,4 +1,9 @@
-### Hi there 👋
+### 
+<h1 align="center">Hi there 👋, I'm Dwi Gustin Nurdialit</h1>
+<p align="center">
+  <img width="200" src="https://giffiles.alphacoders.com/297/2970.gif">
+</p>
+
 
 <!--
 **dwiknrd/dwiknrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +19,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://giffiles.alphacoders.com/297/2970.gif)
