@@ -1,7 +1,7 @@
 ### 
 <h1 align="center">Hi there 👋, I'm Dwi Gustin Nurdialit</h1>
 <p align="center">
-  <img width="400" src="https://giffiles.alphacoders.com/297/2970.gif">
+  <img width="450" src="https://giffiles.alphacoders.com/297/2970.gif">
 </p>
 
 
