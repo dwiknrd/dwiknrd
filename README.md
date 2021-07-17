@@ -1,10 +1,13 @@
 ### 
-<h1 align="center">Hi there 👋, I'm Dwi Gustin Nurdialit</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Dwi Gustin Nurdialit </h1>
+<h3 align="center">Data Scientist</h3>
+<hr>
 <p align="center">
-  <img width="450" src="https://giffiles.alphacoders.com/297/2970.gif">
+<img src="https://img.shields.io/badge/Age-25-blue" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Science-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Indonesia-success" />
+  <img src="https://img.shields.io/badge/Languages-Indonesia%20%26%20English-brightgreen" />
 </p>
-
-
 <!--
 **dwiknrd/dwiknrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
