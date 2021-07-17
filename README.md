@@ -38,16 +38,16 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
+![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)\
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://dwiknrd.github.io/"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://dwiknrd.github.io/"><img src="https://img.shields.io/badge/-dwiknrd.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/dwi-gustin/"><img src="https://img.shields.io/badge/-Dwi%20Gustin%20Nurdialit-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:dwiknrd@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:dwiknrd@gmail.com"><img src="https://img.shields.io/badge/-dwiknrd@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
 
