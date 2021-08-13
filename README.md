@@ -8,15 +8,20 @@
   <img src="https://img.shields.io/badge/Languages-Indonesia%20%26%20English-brightgreen" />
 </p>
 <hr>
+<br>
+<p align="center">
+<a href="https://github.com/dwiknrd">
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=dwiknrd&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</p>
+<br>
 
 <p align="center">
   <!-- <img src="https://gpvc.arturio.dev/dwiknrd" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •   -->
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/dwiknrd?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/dwiknrd?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
-
+<br>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
 
 ### 🛠 &nbsp;Tech Stack
 
