@@ -36,7 +36,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p>
 <a href="https://dwiknrd.github.io/"><img src="https://img.shields.io/badge/-dwiknrd.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/dwi-gustin/"><img src="https://img.shields.io/badge/-Dwi%20Gustin%20Nurdialit-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:dwiknrd@gmail.com"><img src="https://img.shields.io/badge/-dwiknrd@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
